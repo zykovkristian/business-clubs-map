@@ -1,0 +1,24 @@
+# --- секреты: не появляются в истории ни при каких условиях ---
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+credentials.json
+token.json
+
+# --- локальные настройки инструмента ---
+.kilo/agent-manager.json
+
+# --- система и редакторы ---
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+
+# --- логи и временное ---
+*.log
+tmp/
+temp/
