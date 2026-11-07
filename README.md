@@ -4,7 +4,7 @@
 
 **Посмотреть карту:** https://zykovkristian.github.io/business-clubs-map/
 
-![Превью карты](preview.png)
+![Превью карты](image.png)
 
 ## Как пользоваться картой
 
