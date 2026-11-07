@@ -20,6 +20,10 @@ desktop.ini
 
 # --- личные/локальные файлы, не для публикации ---
 GLOSSARY.md
+context.md
+.kilo/
+design/
+archive/
 
 # --- логи и временное ---
 *.log
